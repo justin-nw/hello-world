@@ -43,6 +43,12 @@ To make a block quote, use the following syntax:
 - Other rules from "Ordered Lists" also apply here.
 
     Note that you can add indented text using a carriage return and four spaces.
+### Nested Lists
+1.  To nest a list:
+    1. Indent the inner list.
+    2. Use at least four spaces.
+2.  Continue with outer list.
+3.  It doesn't appear to be possible (using Basic Syntax) to control the enumeration characters for the nested list.
 ### Images
 Link to an image this way:
 
