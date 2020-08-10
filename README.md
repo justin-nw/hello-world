@@ -48,3 +48,6 @@ Link to an image this way:
 
 ![Tux, the Linux mascot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png)
 
+### Code
+To denote text as code, surround it with backtick marks:
+`print("hello world")`
