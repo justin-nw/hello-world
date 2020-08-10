@@ -15,6 +15,8 @@ for the United States of America.
 
 (new_branch) Adding more text in a new branch.
 
+(small_edit_branch) Adding a second edit to README.md before the other changes (in a previous pull request) have been merged.
+
 (new_branch02) Adding more text by editing file (did not create branch first).
 # Experimenting with Markdown (Heading 1)
 Keep text lines left-aligned.
@@ -45,3 +47,4 @@ To make a block quote, use the following syntax:
 Link to an image this way:
 
 ![Tux, the Linux mascot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png)
+
