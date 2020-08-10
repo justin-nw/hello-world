@@ -74,3 +74,6 @@ For example:
 > North
 > ____
 > South
+
+### Change of default branch.
+Changed the default branch to a new branch called "new_default"; now will create pull request and expect it to be merged into "new_default".
