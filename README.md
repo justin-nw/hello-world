@@ -20,8 +20,8 @@ for the United States of America.
 (new_branch02) Adding more text by editing file (did not create branch first).
 # Experimenting with Markdown (Heading 1)
 Keep text lines left-aligned.
-## Specific Instructions (Heading 2)
-A list of examples.
+## Basic Syntax (Heading 2)
+The following sections describe Markdown basic syntax.
 ### Typeface changes (Heading 3)
 When necessary, use **bold** for emphasis.
 Or, *italics*.
@@ -48,6 +48,23 @@ Link to an image this way:
 
 ![Tux, the Linux mascot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png)
 
+Note that it is a good idea to replace spaces in URLs with "%20%".
+
 ### Code
 To denote text as code, surround it with backtick marks:
 `print("hello world")`
+
+### Escaping Characters
+To escape a character, precede it with a backslash (\\):
+>Use a backtick (\`) to surround code fragments.
+
+### Horizontal Rules
+To enter a horizontal rule line, use three or more of any one of the following:
+- Asterisks
+- Dashes
+- Underscores  
+
+For example:
+> North
+> ____
+> South
